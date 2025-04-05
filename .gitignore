@@ -1,0 +1,17 @@
+# Ambiente virtual (se estiver usando)
+venv/
+.env
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Arquivos do sistema
+.DS_Store
+
+# Banco de dados local, se houver
+*.db
+
+# IDEs
+.vscode/
+.idea/
